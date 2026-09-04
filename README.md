@@ -12,13 +12,11 @@ This repository provides a general-purpose machine-learned interatomic potential
 If you use the datasets or trained models provided in this repository, please cite:
 
 ```bibtex
-@misc{wu2026generalpurposemachinelearnedpotentialcrconi,
-      title={General-Purpose Machine-Learned Potential for CrCoNi Alloys Enabling Large-Scale Atomistic Simulations with First-Principles Accuracy},
-      author={Yong-Chao Wu and Tero Mäkinen and Mikko Alava and Amin Esfandiarpour},
-      year={2026},
-      eprint={2603.25616},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mtrl-sci},
-      url={https://arxiv.org/abs/2603.25616}
+@article{wu2026machine,
+  title={Machine-learned interatomic potential for large-scale simulations of the CrCoNi medium-entropy alloys},
+  author={Wu, Yong-Chao and M{\"a}kinen, Tero and Alava, Mikko and Esfandiarpour, Amin},
+  journal={Communications Materials},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
 ```
